@@ -4,6 +4,7 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
+    line-height: 1.6;
 }
 
 .container {
@@ -27,16 +28,26 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.story-image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto 20px;
-    border-radius: 8px;
-}
-
 p {
-    line-height: 1.6;
     font-size: 1.1em;
     margin: 0 0 15px;
+}
+
+.character-image {
+    max-width: 150px;
+    height: auto;
+    float: right;
+    margin: 0 0 10px 10px;
+    border-radius: 5px;
+}
+
+.scene-image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+strong {
+    font-weight: bold;
 }
