@@ -14,12 +14,13 @@ A short story set in rural Georgia, exploring themes of trauma, friendship, and 
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Create an `images/` folder in the repository.
-3. Upload your existing `renee.jpg`, `paige.jpg`, and `oscar.jpg` to the `images/` folder.
+3. Upload your existing `Renee.jpg`, `Paige.jpg`, `Oscar.jpg`, and `Nadia.jpg` to the `images/` folder.
 4. Open `index.html` in a web browser or deploy to GitHub Pages.
 
 ## Images
-- `renee.jpg`: Represents Renee, a 16-year-old with a thoughtful expression.
-- `paige.jpg`: Depicts Paige, a young girl with a rebellious spirit.
-- `oscar.jpg`: Shows Oscar, an older man with a stern expression.
+- `Renee.jpg`: Represents Renee, a 16-year-old with a thoughtful expression.
+- `Paige.jpg`: Depicts Paige, a young girl with a rebellious spirit.
+- `Oscar.jpg`: Shows Oscar, an older man with a stern expression.
+- `Nadia.jpg`: Depicts Nadia, Renee's mother with a sad expression.
 
 *Upload the images you provided with these exact file names.*
